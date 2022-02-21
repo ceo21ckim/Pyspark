@@ -8,7 +8,7 @@ basics : [basics][bslink]
 
 [bslink]: https://github.com/ceo21ckim/Pyspark/blob/main/basics.ipynb
 
-
+# Version
 
 java 는 11버전 이상, 하둡은 3버전 이상을 지원합니다. [spark 3.2.1 기준]
 
