@@ -4,9 +4,6 @@ document : [document][doclink]
 
 [doclink]: https://spark-korea.github.io/docs/
 
-basics : [basics][bslink]
-
-[bslink]: https://github.com/ceo21ckim/Pyspark/blob/main/basics.ipynb
 
 # Version
 
