@@ -1,6 +1,6 @@
 # Pyspark
 
-document : [document][doclink]
+[ocument][doclink]
 
 [doclink]: https://spark-korea.github.io/docs/
 
